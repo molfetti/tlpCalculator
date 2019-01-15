@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TLPCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TLPCalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
